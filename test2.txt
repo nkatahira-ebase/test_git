@@ -1,3 +1,4 @@
 TEST GIT COMMIT 3
 brach change 1
+after merge write
 
